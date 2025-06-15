@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 5d4163c0567c0444f85946b3dba0eeba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2690839333354094694
+    second: evler_0
+  - first:
+      213: 4573336875882934201
+    second: evler_1
+  - first:
+      213: 7587489968368530369
+    second: evler_2
+  - first:
+      213: 4491632701076068506
+    second: evler_3
+  - first:
+      213: -1098704448610803501
+    second: evler_4
+  - first:
+      213: 3753405757028610931
+    second: evler_5
+  - first:
+      213: -1710339815506263018
+    second: evler_6
+  - first:
+      213: 1769466906092267788
+    second: evler_7
+  - first:
+      213: 2307561450699230590
+    second: evler_8
+  - first:
+      213: -2126198026878254006
+    second: evler_9
+  - first:
+      213: -4084461370510284998
+    second: evler_10
+  - first:
+      213: -3289897377185265213
+    second: evler_11
+  - first:
+      213: 1611686867177833614
+    second: evler_12
+  - first:
+      213: -4077416144789744944
+    second: evler_13
+  - first:
+      213: 2182407340174457566
+    second: evler_14
+  - first:
+      213: 3340866221192447412
+    second: evler_15
+  - first:
+      213: -7965818069942637369
+    second: evler_16
+  - first:
+      213: 2524061059583683137
+    second: evler_17
+  - first:
+      213: -7683495757647264585
+    second: evler_18
+  - first:
+      213: -4411401799649625897
+    second: evler_19
+  - first:
+      213: -7476926545342086640
+    second: evler_20
+  - first:
+      213: 4699991782326193654
+    second: evler_21
+  - first:
+      213: 282806819725394576
+    second: evler_22
+  - first:
+      213: 737784635452758940
+    second: evler_23
+  - first:
+      213: 5002198872968582147
+    second: evler_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: evler_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 990
+        width: 358
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378f55820959f5f41930cb2271da5f1d
+      internalID: -299110763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 991
+        width: 352
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d4bb3c9008144cb48700846078723
+      internalID: 952536818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 992
+        width: 396
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0bb214e920224a829c37b5f7cb9cf
+      internalID: 1727111473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_3
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1000
+        width: 482
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de12f7151ca0344afa6f842c5104fe
+      internalID: 1078177688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 671
+        width: 391
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952ec08478b7fd42b8e0c89cd41e321
+      internalID: -562247866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 658
+        width: 449
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda82085c22ddac499976460430e8efe
+      internalID: 1779078667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_6
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 587
+        width: 395
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087cf9260b779c1438688b430dd29235
+      internalID: -181099769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_7
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 800
+        width: 494
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a11c477dee8414187bdbb5dc85a68a
+      internalID: 1390252511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 658
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abc8cce053a1347b06ebaa864d16b8
+      internalID: 1029899527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 658
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a64bde6afc3d4429117b3e4a2d17b2
+      internalID: -565740366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 590
+        width: 305
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551faea4427d51f448e3a108b64d1aa9
+      internalID: -2143045350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 480
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25802e1f90153c244a6c379dd1674eca
+      internalID: -2034688998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 480
+        width: 217
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d0ec5e803c984c86f13cdc4df1d35
+      internalID: 63429295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 432
+        width: 549
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83658049f13869048a5c834f1ecc6a96
+      internalID: 743378422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 393
+        width: 657
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9b4fb242fada409b8675bad22ad18
+      internalID: 388312355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 307
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5969f3429f3ff40bcba94e561e2efb
+      internalID: -1658025117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 438
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827fbc321c663a4bb3eb7e8d9910b22
+      internalID: -1201321292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_19
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 291
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281ce8aa2e522641a4183eac7a2e0c6
+      internalID: -1533054358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_20
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 274
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d80e05274ba44ca0f80ee6f02287f
+      internalID: -1231305054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_21
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 162
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879c2226591da14aaa93ad1fe057bc9
+      internalID: 1693226594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_22
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 160
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e6ced4e9b33e4692e3e279453d3c2
+      internalID: -1153320054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_23
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 80
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc331debb2c3c4aa5759f960540a42
+      internalID: 1176315347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evler_24
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 79
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f29945d4b69e1419530f54c8492e84
+      internalID: -1755773468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e80a7db986b7d83498f4d1c67d691b2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      evler_0: -299110763
+      evler_1: 952536818
+      evler_10: -2143045350
+      evler_11: -2034688998
+      evler_12: 63429295
+      evler_13: 743378422
+      evler_14: 388312355
+      evler_15: -1658025117
+      evler_16: -1201321292
+      evler_17: -1196928892
+      evler_18: -775671730
+      evler_19: -1533054358
+      evler_2: 1727111473
+      evler_20: -1231305054
+      evler_21: 1693226594
+      evler_22: -1153320054
+      evler_23: 1176315347
+      evler_24: -1755773468
+      evler_3: 1078177688
+      evler_4: -562247866
+      evler_5: 1779078667
+      evler_6: -181099769
+      evler_7: 1390252511
+      evler_8: 1029899527
+      evler_9: -565740366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0bfdb60261c709a4ea9b61a278005797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1322654599723646945
+    second: "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_0"
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 82
+        width: 305
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: 89.5}
+        - {x: -140.5, y: 77.5}
+        - {x: -141.5, y: 64.5}
+        - {x: -135.5, y: 53.5}
+        - {x: -130.5, y: 49.5}
+        - {x: -122.5, y: 48.5}
+        - {x: -122.5, y: 38.5}
+        - {x: -122.5, y: 31.5}
+        - {x: -120.5, y: 24.5}
+        - {x: -118.5, y: 16.5}
+        - {x: -114.5, y: 9.5}
+        - {x: -108.5, y: 3.5}
+        - {x: -102.5, y: -1.5}
+        - {x: -95.5, y: -6.5}
+        - {x: -87.5, y: -10.5}
+        - {x: -87.5, y: -29.5}
+        - {x: -90.5, y: -65.5}
+        - {x: -92.5, y: -95.5}
+        - {x: -98.5, y: -99.5}
+        - {x: -104.5, y: -104.5}
+        - {x: -109.5, y: -110.5}
+        - {x: -112.5, y: -117.5}
+        - {x: -112.5, y: -124.5}
+        - {x: -110.5, y: -131.5}
+        - {x: -101.5, y: -136.5}
+        - {x: -90.5, y: -139.5}
+        - {x: -80.5, y: -140.5}
+        - {x: -65.5, y: -137.5}
+        - {x: -53.5, y: -132.5}
+        - {x: -52.5, y: -139.5}
+        - {x: -42.5, y: -144.5}
+        - {x: -26.5, y: -146.5}
+        - {x: -12.5, y: -146.5}
+        - {x: 2.5, y: -139.5}
+        - {x: 13.5, y: -143.5}
+        - {x: 23.5, y: -145.5}
+        - {x: 36.5, y: -145.5}
+        - {x: 52.5, y: -144.5}
+        - {x: 69.5, y: -140.5}
+        - {x: 78.5, y: -133.5}
+        - {x: 84.5, y: -114.5}
+        - {x: 92.5, y: -113.5}
+        - {x: 104.5, y: -106.5}
+        - {x: 118.5, y: -93.5}
+        - {x: 127.5, y: -77.5}
+        - {x: 131.5, y: -60.5}
+        - {x: 131.5, y: -44.5}
+        - {x: 128.5, y: -26.5}
+        - {x: 124.5, y: -16.5}
+        - {x: 119.5, y: -8.5}
+        - {x: 113.5, y: -3.5}
+        - {x: 107.5, y: -3.5}
+        - {x: 103.5, y: -10.5}
+        - {x: 96.5, y: -41.5}
+        - {x: 89.5, y: -54.5}
+        - {x: 74.5, y: -22.5}
+        - {x: 40.5, y: 20.5}
+        - {x: 46.5, y: 20.5}
+        - {x: 59.5, y: 32.5}
+        - {x: 69.5, y: 51.5}
+        - {x: 73.5, y: 70.5}
+        - {x: 71.5, y: 86.5}
+        - {x: 62.5, y: 106.5}
+        - {x: 42.5, y: 128.5}
+        - {x: 18.5, y: 138.5}
+        - {x: -5.5, y: 152.5}
+        - {x: -21.5, y: 157.5}
+        - {x: -37.5, y: 159.5}
+        - {x: -55.5, y: 158.5}
+        - {x: -71.5, y: 153.5}
+        - {x: -81.5, y: 150.5}
+        - {x: -89.5, y: 149.5}
+        - {x: -99.5, y: 142.5}
+        - {x: -115.5, y: 123.5}
+        - {x: -128.5, y: 105.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108fe636acf4ade0800000000000000
+      internalID: -1322654599723646945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f639b97e2a0b53b428e4ff960a37c20b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_0": -1322654599723646945
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_1": -967791715
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_10": 1630963366
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_11": 429378489
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_12": 1954667708
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_13": 2072403501
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_14": -692777377
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_15": -2017757912
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_16": 1470406892
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_17": 209353947
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_18": -1108580687
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_19": 11109943
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_2": 1893914007
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_20": 177368875
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_21": -727891131
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_22": 1799525365
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_23": 395653025
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_3": -931941044
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_4": -1710734830
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_5": -1743780473
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_6": 1611555743
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_7": -364667586
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_8": 909341404
+      "WhatsApp G\xF6rsel 2025-06-14 saat 22.38.35_69c91787_9": 642326879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

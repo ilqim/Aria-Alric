@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: 7b2a38462aca60641b217741cfe178b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8912250063857333560
+    second: karisik_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karisik_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 636
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eca72a58d95a449a3a6e852aa6d1c2
+      internalID: -454272366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 558
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8339798a1620347bb33754c6866920
+      internalID: -158263476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 733
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3766253ca8e4bf4480e32acf3bc7bdc
+      internalID: 2132602219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 504
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345c5e3cb8c67f4a8bf5aedf57dfe2d
+      internalID: -1835754704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_5
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1052
+        width: 308
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e7f8600bfcdf42a917409ddc52f45
+      internalID: -1992787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_6
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 926
+        width: 189
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e81b5f99085248a454a7162ea0a89
+      internalID: 345995745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 640
+        width: 73
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34f59c8a25d7847823a3f6786eda5b
+      internalID: -1251715362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 557
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100450353930194b884ec47c441263c
+      internalID: 715200664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 814
+        width: 230
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d481731054269145887ae3faf0cdc1d
+      internalID: 1617591405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 451
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905a5e1c1610cc4aaa538061b7b8ac2
+      internalID: -2043322986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 506
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb8f64fefc2bf4458da23068b43dad1
+      internalID: 1950760027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1088
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5d740fad15394ebc3dc2984d0c815
+      internalID: 1437820725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_13
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 770
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df9d626cf97b5d4abf7d6877623afa0
+      internalID: -217823116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 504
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085eda5ae9444ed42b1e96872fcabac6
+      internalID: -1381762986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 443
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4b6ba1ff0ce047a3241cbb8bf9f1c
+      internalID: -1370118895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 552
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f69183d4745d843bc4556134ff17f4
+      internalID: 196201054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 547
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b994edcc0e3de49bdd83cd5e26e118
+      internalID: 822523373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_18
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 618
+        width: 160
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6dbe07668b244db2706321d9363c5
+      internalID: 993985786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 733
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97eb5f34e2c984c956a66c933f50ea
+      internalID: 540176057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 291
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b2f6038bf2f041856f149ce1d51be
+      internalID: 978062511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 502
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e0e1d6ef959c4293db8b57634040e
+      internalID: -1290212554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 444
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68607983dfd136742bd1e7c562625577
+      internalID: 1937051591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 389
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95343f96f81e57488fc65123be7f734
+      internalID: 1437088202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_24
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 424
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04ce64d8d52f64e98ac91993a4ad56
+      internalID: -220331552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_25
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 437
+        width: 123
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a5e62f918bc54ca2c594922dbdbba
+      internalID: -1580583338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 503
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faeb843937dab440bd5c108ef730bb8
+      internalID: 1716761087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_27
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 410
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717456bbffd5d624a8bcac43ec1f2b45
+      internalID: 541518008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 503
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f5a211aa39bf4bb4a0170c3b1cf2d
+      internalID: 195923696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 389
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db92261117e1e964bbdae8f5b87700e3
+      internalID: 884311900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 138
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb78cb0521e3644bfcb166611416e1
+      internalID: 1023214791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_31
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 24
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb84628b9b74d846ab23b331b60bdfa
+      internalID: -832568414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_32
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 154
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b86a881d2134746813e7ec0b926afe
+      internalID: -467399610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 156
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538cbaffc0554a4ba63387a754da146
+      internalID: 2023576582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 89
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38244bdbc173e34d81a3253e7ed57e8
+      internalID: 170348421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 816
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ffd438d1cc0d41b583bb74d2f8ee5
+      internalID: -1678163400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 533
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88176caca3a1b6040bb05b6addab3bfe
+      internalID: 21126031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 472
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f94757951e3cf341813abef9d7cbd4d
+      internalID: -1587006164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 427
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75747a775375d9047b70d478bde97034
+      internalID: 1303317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 473
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d93a4c5ec6a249a35db872441a2be
+      internalID: -613602013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 471
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac374ce1b6307d438059ff5308b1429
+      internalID: 1687686862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 473
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0061c908c9c0347b42cdbcf7041c52
+      internalID: 376690574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 471
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f22db0c7ed31842b8b672239e8e823
+      internalID: -733883340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 528
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d64be759de574d966e881f431a5fc
+      internalID: -1079157151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 532
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20b6ed9ae1ff7498c940498002c677
+      internalID: -827342506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 533
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00948da7a7e338d4da49f5d38d90a478
+      internalID: -854628533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 532
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccae4939933e8b4f816812bd4109be9
+      internalID: -1841842214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 533
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ef4f7ba4069949b83bb755e8fc454
+      internalID: -1458775473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 581
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59552128be06d0140bd3c921645bc2f9
+      internalID: -1600707492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 584
+        width: 138
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a2c3dc9882ce4798a5afa2ca24235
+      internalID: -76412032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 736
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bebee1c12a72049b126df7a795c55c
+      internalID: 466949733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 735
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f605e7ccb8144d9846b7fdafad9ac
+      internalID: 1032104496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 782
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6973d269be37f143a5c3d1cbb6d5bff
+      internalID: 375825798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 860
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c116ee3901d4449868b57a227e546
+      internalID: 1960996192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 417
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d78c14443fbf4bad5671ce621d889
+      internalID: 1783654708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 421
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94180193e59494a8ac7556030a858d
+      internalID: 1180371446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 424
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb730cccc8c96a46ba11d82e36d1b89
+      internalID: -2111454290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 179
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14880ac7eb285354ca43bff7cd0d5eb2
+      internalID: -1791483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7fec9a3298d814197dfb38f5bb0ffe
+      internalID: -1722090338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d916f67e046f468753afee43d7fbe
+      internalID: 1888022069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 140
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9714cc68a8904092891dc54c14274
+      internalID: -574055874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_61
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 80
+        width: 128
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb79acf648b2f843bf3db77bbd838ab
+      internalID: -507371246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 26
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e88c1814257d4f94a144129f36596
+      internalID: -1252189261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef83c63fb31f2d4780d691e65040088
+      internalID: 1532409880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 251
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb06d80cf6f7b4c91f306211d6142d
+      internalID: 1929216090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 453
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0ad54453bd8d4394bb0ee73289d1b
+      internalID: -899849797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_66
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 14
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -16, y: 39.5}
+        - {x: -17, y: 37.5}
+        - {x: -17, y: 34.5}
+        - {x: -20, y: 33.5}
+        - {x: -20, y: 31.5}
+        - {x: -20, y: 29.5}
+        - {x: -20, y: 28.5}
+        - {x: -20, y: 23.5}
+        - {x: -19, y: 22.5}
+        - {x: -19, y: 20.5}
+        - {x: -18, y: 20.5}
+        - {x: -18, y: 19.5}
+        - {x: -17, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -15, y: 17.5}
+        - {x: -14, y: 16.5}
+        - {x: -12, y: 16.5}
+        - {x: -12, y: 15.5}
+        - {x: -11, y: 15.5}
+        - {x: -9, y: 14.5}
+        - {x: -8, y: 12.5}
+        - {x: -7, y: 11.5}
+        - {x: -7, y: 10.5}
+        - {x: -9, y: 8.5}
+        - {x: -9, y: 7.5}
+        - {x: -10, y: 6.5}
+        - {x: -10, y: 5.5}
+        - {x: -11, y: 5.5}
+        - {x: -11, y: 6.5}
+        - {x: -14, y: 7.5}
+        - {x: -16, y: 8.5}
+        - {x: -18, y: 8.5}
+        - {x: -20, y: 6.5}
+        - {x: -21, y: 5.5}
+        - {x: -21, y: 4.5}
+        - {x: -23, y: 2.5}
+        - {x: -23, y: -4.5}
+        - {x: -23, y: -5.5}
+        - {x: -22, y: -6.5}
+        - {x: -22, y: -7.5}
+        - {x: -21, y: -8.5}
+        - {x: -19, y: -8.5}
+        - {x: -19, y: -7.5}
+        - {x: -16, y: -7.5}
+        - {x: -16, y: -6.5}
+        - {x: -13, y: -6.5}
+        - {x: -13, y: -5.5}
+        - {x: -12, y: -5.5}
+        - {x: -11, y: -6.5}
+        - {x: -10, y: -6.5}
+        - {x: -10, y: -8.5}
+        - {x: -11, y: -9.5}
+        - {x: -11, y: -11.5}
+        - {x: -12, y: -12.5}
+        - {x: -12, y: -13.5}
+        - {x: -13, y: -14.5}
+        - {x: -13, y: -15.5}
+        - {x: -14, y: -16.5}
+        - {x: -14, y: -18.5}
+        - {x: -15, y: -19.5}
+        - {x: -15, y: -21.5}
+        - {x: -14, y: -23.5}
+        - {x: -14, y: -24.5}
+        - {x: -13, y: -25.5}
+        - {x: -13, y: -27.5}
+        - {x: -12, y: -29.5}
+        - {x: -13, y: -30.5}
+        - {x: -14, y: -30.5}
+        - {x: -18, y: -33.5}
+        - {x: -19, y: -33.5}
+        - {x: -21, y: -35.5}
+        - {x: -33, y: -35.5}
+        - {x: -33, y: -42.5}
+        - {x: -32, y: -43.5}
+        - {x: -27, y: -43.5}
+        - {x: -27, y: -44.5}
+        - {x: -26, y: -44.5}
+        - {x: -26, y: -55.5}
+        - {x: 30, y: -55.5}
+        - {x: 30, y: -48.5}
+        - {x: 30, y: -44.5}
+        - {x: 31, y: -44.5}
+        - {x: 31, y: -43.5}
+        - {x: 34, y: -43.5}
+        - {x: 34, y: -42.5}
+        - {x: 36, y: -42.5}
+        - {x: 36, y: -35.5}
+        - {x: 27, y: -35.5}
+        - {x: 26, y: -34.5}
+        - {x: 25, y: -33.5}
+        - {x: 24, y: -33.5}
+        - {x: 20, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 18, y: -28.5}
+        - {x: 19, y: -27.5}
+        - {x: 19, y: -24.5}
+        - {x: 20, y: -23.5}
+        - {x: 20, y: -22.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: -17.5}
+        - {x: 20, y: -15.5}
+        - {x: 19, y: -12.5}
+        - {x: 18, y: -9.5}
+        - {x: 17, y: -8.5}
+        - {x: 17, y: -5.5}
+        - {x: 18, y: -4.5}
+        - {x: 19, y: -4.5}
+        - {x: 20, y: -5.5}
+        - {x: 26, y: -5.5}
+        - {x: 29, y: -2.5}
+        - {x: 31, y: 1.5}
+        - {x: 31, y: 4.5}
+        - {x: 26, y: 10.5}
+        - {x: 23, y: 10.5}
+        - {x: 22, y: 9.5}
+        - {x: 15, y: 9.5}
+        - {x: 15, y: 11.5}
+        - {x: 17, y: 13.5}
+        - {x: 23, y: 18.5}
+        - {x: 26, y: 22.5}
+        - {x: 26, y: 30.5}
+        - {x: 26, y: 34.5}
+        - {x: 25, y: 35.5}
+        - {x: 23, y: 35.5}
+        - {x: 23, y: 38.5}
+        - {x: 21, y: 42.5}
+        - {x: 18, y: 46.5}
+        - {x: 15, y: 49.5}
+        - {x: 11, y: 51.5}
+        - {x: 8, y: 52.5}
+        - {x: 2, y: 53.5}
+        - {x: -3, y: 52.5}
+        - {x: -6, y: 51.5}
+        - {x: -9.769836, y: 49.125885}
+        - {x: -14, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2a3b19f02b9e49bda618c6925cfcc
+      internalID: -1936615222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 242
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69905e2e8a410cf43810074b4404195e
+      internalID: 1001133021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_68
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 212
+        width: 89
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7205f11220e33444c8131526eaf933ac
+      internalID: -1510933445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_69
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 101
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d368653354ff9449bebcd53162dc32f
+      internalID: -6551078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_70
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 50
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9cd2263863eaf49ad6ca357f8ce597
+      internalID: 1729030292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 249
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd565f3e69c944eac6b386004c90ba
+      internalID: -734420855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karisik_0
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 195
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -50, y: -30}
+        - {x: 51, y: -30}
+        - {x: 51, y: 30}
+        - {x: -18, y: 30}
+        - {x: -33, y: 18}
+        - {x: -52, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6846674fb12c044893da9b6a4f1451
+      internalID: -8912250063857333560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0de2cbb4e4534c543be8d13e635bd073
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      karisik_0: -8912250063857333560
+      karisik_1: -454272366
+      karisik_10: -2043322986
+      karisik_11: 1950760027
+      karisik_12: 1437820725
+      karisik_13: -217823116
+      karisik_14: -1381762986
+      karisik_15: -1370118895
+      karisik_16: 196201054
+      karisik_17: 822523373
+      karisik_18: 993985786
+      karisik_19: 540176057
+      karisik_2: -158263476
+      karisik_20: 978062511
+      karisik_21: -1290212554
+      karisik_22: 1937051591
+      karisik_23: 1437088202
+      karisik_24: -220331552
+      karisik_25: -1580583338
+      karisik_26: 1716761087
+      karisik_27: 541518008
+      karisik_28: 195923696
+      karisik_29: 884311900
+      karisik_3: 2132602219
+      karisik_30: 1023214791
+      karisik_31: -832568414
+      karisik_32: -467399610
+      karisik_33: 2023576582
+      karisik_34: 170348421
+      karisik_35: -1678163400
+      karisik_36: 21126031
+      karisik_37: -1587006164
+      karisik_38: 1303317606
+      karisik_39: -613602013
+      karisik_4: -1835754704
+      karisik_40: 1687686862
+      karisik_41: 376690574
+      karisik_42: -733883340
+      karisik_43: -1079157151
+      karisik_44: -827342506
+      karisik_45: -854628533
+      karisik_46: -1841842214
+      karisik_47: -1458775473
+      karisik_48: -1600707492
+      karisik_49: -76412032
+      karisik_5: -1992787
+      karisik_50: 466949733
+      karisik_51: 1032104496
+      karisik_52: 375825798
+      karisik_53: 1960996192
+      karisik_54: 1783654708
+      karisik_55: 1180371446
+      karisik_56: -2111454290
+      karisik_57: -1791483421
+      karisik_58: -1722090338
+      karisik_59: 1888022069
+      karisik_6: 345995745
+      karisik_60: -574055874
+      karisik_61: -507371246
+      karisik_62: -1252189261
+      karisik_63: 1532409880
+      karisik_64: 1929216090
+      karisik_65: -899849797
+      karisik_66: -1936615222
+      karisik_67: 1001133021
+      karisik_68: -1510933445
+      karisik_69: -6551078
+      karisik_7: -1251715362
+      karisik_70: 1729030292
+      karisik_71: -734420855
+      karisik_8: 715200664
+      karisik_9: 1617591405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
