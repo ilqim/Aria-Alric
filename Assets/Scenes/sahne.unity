@@ -3375,7 +3375,7 @@ GameObject:
   - component: {fileID: 1583684204}
   - component: {fileID: 1583684203}
   m_Layer: 0
-  m_Name: ilkim
+  m_Name: stork
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3424,7 +3424,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 0
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!95 &1583684199
 Animator:
   serializedVersion: 7

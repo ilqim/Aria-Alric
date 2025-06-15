@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
         score++;
         ScoreText.text = score.ToString();
 
-        if (score >= 50)
+        if (score >= 30)
         {
             player.SetActive(false);
             txt.gameObject.SetActive(true);

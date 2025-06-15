@@ -19,13 +19,13 @@ public class stork : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision){
-        if(collision.gameObject.name == "ScoreArea"){
-            managerGame.UpdateScore();
-        }else if(collision.gameObject.tag == "ScoreArea5"){
-            managerGame.UpdateScore5();
-        }
-    }
+    // private void OnTriggerEnter2D(Collider2D collision){
+    //     if(collision.gameObject.name == "ScoreArea"){
+    //         managerGame.UpdateScore();
+    //     }else if(collision.gameObject.tag == "ScoreArea5"){
+    //         managerGame.UpdateScore5();
+    //     }
+    // }
 
     private void OnCollisionEnter2D(Collision2D collision){
         if(collision.gameObject.tag == "DeathArea"){

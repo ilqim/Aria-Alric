@@ -193,6 +193,7 @@ GameObject:
   - component: {fileID: 3381951752330162161}
   - component: {fileID: 6078005568220590947}
   - component: {fileID: 1338728401647608086}
+  - component: {fileID: 5676511362253929420}
   m_Layer: 0
   m_Name: ScoreArea
   m_TagString: ScoreArea
@@ -316,6 +317,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.7, y: 0.56133425}
   m_EdgeRadius: 0
+--- !u!114 &5676511362253929420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4623835213332730655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15185f0b3fd92fd4882cc9d7751af4d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
 --- !u!1 &6617288725013180858
 GameObject:
   m_ObjectHideFlags: 0
