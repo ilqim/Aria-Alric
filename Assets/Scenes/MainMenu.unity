@@ -1045,7 +1045,7 @@ GameObject:
   - component: {fileID: 311203567}
   - component: {fileID: 311203571}
   m_Layer: 0
-  m_Name: mesaj
+  m_Name: credit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
