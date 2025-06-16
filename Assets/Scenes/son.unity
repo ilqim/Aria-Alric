@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 426641827}
   - component: {fileID: 426641826}
   m_Layer: 0
-  m_Name: ilkim
+  m_Name: stork
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
